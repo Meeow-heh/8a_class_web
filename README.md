@@ -1,4 +1,5 @@
 /html
+/head
 <style type="text/css">
         .head1 {
             margin-top: 10px;
