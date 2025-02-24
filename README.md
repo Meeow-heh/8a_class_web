@@ -1,5 +1,5 @@
-</html>
-</head>
+<html>
+<head>
 <style type="text/css">
         .head1 {
             margin-top: 10px;
@@ -70,7 +70,7 @@
     <table class="epigraph-table" style="background-color:rgb(213, 213, 237);">
         <tr>
             <th class="epigraph-col" style="text-align: left;">
-                <img src="files/kurchatov.png"  
+                <img src="kurchatov.png"  
                       style="width:100px;height:100%; padding-left: 20px;" 
                       alt="Фото Курчатова"/>
             </th>
@@ -141,7 +141,7 @@
             </ul>
         </div>
         <div>
-            <img src="files/img11111.jpg" class="img-cust" alt="Награды"/>
+            <img src="img11111.jpg" class="img-cust" alt="Награды"/>
         </div>
         <div class="top-block">
             Мы стараемся быть лучшими и держать темп обучения!
